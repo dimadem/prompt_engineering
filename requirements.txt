@@ -1,0 +1,6 @@
+ipykernel
+openai
+python-dotenv
+pillow
+rembg
+requests
